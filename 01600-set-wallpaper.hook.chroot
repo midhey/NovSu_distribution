@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+chmod +x /etc/init.d/set_wallpapers
+insserv /etc/init.d/set_wallpapers

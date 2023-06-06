@@ -1,0 +1,9 @@
+PRETTY_NAME="NovSu Linux Distribution"
+NAME="NovSu Linux "
+VERSION_ID="1"
+VERSION="1)"
+VERSION_CODENAME=bullseye
+ID=debian
+HOME_URL="https://novsu.ru/"
+SUPPORT_URL="https://novsu.ru/"
+BUG_REPORT_URL="https://novsu.ru/"
